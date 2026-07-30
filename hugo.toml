@@ -1,0 +1,7 @@
+baseURL = 'https://lovefishlovesea.github.io/blog0728/'
+title = 'Blog'
+timeout = '30s'
+
+[params]
+  description = 'AI and technology blog'
+  author = 'dream'
