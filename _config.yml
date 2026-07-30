@@ -1,0 +1,5 @@
+title: Blog
+description: AI and technology blog
+author: dream
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
